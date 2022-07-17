@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/universe.dart.spb/pdiaz/.dotnet/store/|arch|/|tfm|",
+      "/home/universe.dart.spb/pdiaz/.nuget/packages"
+    ]
+  }
+}

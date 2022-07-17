@@ -1,0 +1,11 @@
+/mnt/94845CBF845CA610/src/FindAllValidPhoneNumbers_OP/FindAllValidPhoneNumbers/bin/Debug/netcoreapp3.1/FindAllValidPhoneNumbers
+/mnt/94845CBF845CA610/src/FindAllValidPhoneNumbers_OP/FindAllValidPhoneNumbers/bin/Debug/netcoreapp3.1/FindAllValidPhoneNumbers.deps.json
+/mnt/94845CBF845CA610/src/FindAllValidPhoneNumbers_OP/FindAllValidPhoneNumbers/bin/Debug/netcoreapp3.1/FindAllValidPhoneNumbers.runtimeconfig.json
+/mnt/94845CBF845CA610/src/FindAllValidPhoneNumbers_OP/FindAllValidPhoneNumbers/bin/Debug/netcoreapp3.1/FindAllValidPhoneNumbers.runtimeconfig.dev.json
+/mnt/94845CBF845CA610/src/FindAllValidPhoneNumbers_OP/FindAllValidPhoneNumbers/bin/Debug/netcoreapp3.1/FindAllValidPhoneNumbers.dll
+/mnt/94845CBF845CA610/src/FindAllValidPhoneNumbers_OP/FindAllValidPhoneNumbers/bin/Debug/netcoreapp3.1/FindAllValidPhoneNumbers.pdb
+/mnt/94845CBF845CA610/src/FindAllValidPhoneNumbers_OP/FindAllValidPhoneNumbers/obj/Debug/netcoreapp3.1/FindAllValidPhoneNumbers.csprojAssemblyReference.cache
+/mnt/94845CBF845CA610/src/FindAllValidPhoneNumbers_OP/FindAllValidPhoneNumbers/obj/Debug/netcoreapp3.1/FindAllValidPhoneNumbers.AssemblyInfoInputs.cache
+/mnt/94845CBF845CA610/src/FindAllValidPhoneNumbers_OP/FindAllValidPhoneNumbers/obj/Debug/netcoreapp3.1/FindAllValidPhoneNumbers.AssemblyInfo.cs
+/mnt/94845CBF845CA610/src/FindAllValidPhoneNumbers_OP/FindAllValidPhoneNumbers/obj/Debug/netcoreapp3.1/FindAllValidPhoneNumbers.dll
+/mnt/94845CBF845CA610/src/FindAllValidPhoneNumbers_OP/FindAllValidPhoneNumbers/obj/Debug/netcoreapp3.1/FindAllValidPhoneNumbers.pdb

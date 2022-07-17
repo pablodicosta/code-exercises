@@ -1,0 +1,23 @@
+{
+  "name": "river-crossing",
+  "version": "1.0.0",
+  "description": "Wolves and Monkeys demo game",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "babel-node src/index.js",
+    "test": "mocha --require @babel/register './test/*.spec.js'"
+  },
+  "author": "pablodicosta",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/register": "^7.6.2",
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
